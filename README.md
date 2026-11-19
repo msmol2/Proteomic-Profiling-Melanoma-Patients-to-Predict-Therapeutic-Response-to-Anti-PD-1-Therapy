@@ -1,2 +1,2 @@
 # Proteomic-Profiling-Melanoma-Patients-to-Predict-Therapeutic-Response-to-Anti-PD-1-Therapy
-Proteomic Profiling of Advanced Melanoma Patients to Predict Therapeutic Response to Anti-PD-1 Therapy
+comprehensive serum proteomics analysis pipeline for comparing responders and non-responders to anti-PD-1 therapy. It includes steps for data loading, cleaning, normalization, imputation, quality control, differential abundance analysis, and validation. Profiling of Advanced Melanoma Patients to Predict Therapeutic Response to Anti-PD-1 Therapy
